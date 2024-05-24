@@ -1,0 +1,106 @@
+[2024-05-15T02:21:19.991708900] [Success]: Connected successfully
+[2024-05-15T02:54:24.086738800] [Success]: Connected successfully
+[2024-05-15T02:54:24.443459500] [error]: Column 'date' not found.
+[2024-05-15T02:55:01.134410300] [Success]: Connected successfully
+[2024-05-15T02:58:14.632196700] [Success]: Connected successfully
+[2024-05-15T02:59:57.631895500] [Success]: Connected successfully
+[2024-05-15T03:00:18.698730500] [Success]: Connected successfully
+[2024-05-15T03:08:57.925846900] [Success]: Connected successfully
+[2024-05-15T03:10:06.391225] [Success]: Connected successfully
+[2024-05-15T03:11:55.820552500] [Success]: Connected successfully
+[2024-05-15T03:17:15.963456300] [Success]: Connected successfully
+[2024-05-15T03:21:51.530488300] [Success]: Connected successfully
+[2024-05-15T03:34:53.880702500] [Success]: Connected successfully
+[2024-05-15T03:35:32.887440200] [Success]: Inserted an event Succesfully
+[2024-05-15T03:35:53.167122800] [Success]: Connected successfully
+[2024-05-15T03:38:34.812237100] [Success]: Connected successfully
+[2024-05-15T03:39:07.365206100] [Success]: Inserted an event Succesfully
+[2024-05-15T03:46:13.967523700] [Success]: Connected successfully
+[2024-05-15T03:53:15.021273200] [Success]: Connected successfully
+[2024-05-15T09:18:58.946683200] [Success]: Connected successfully
+[2024-05-15T09:19:29.603826900] [Success]: Connected successfully
+[2024-05-15T09:20:50.920189500] [Success]: Inserted an event Succesfully
+[2024-05-15T09:21:10.416460400] [Success]: Connected successfully
+[2024-05-15T09:33:08.038099] [Success]: Connected successfully
+[2024-05-15T09:34:44.478089200] [Success]: Connected successfully
+[2024-05-15T09:36:11.848465100] [Success]: Connected successfully
+[2024-05-15T09:38:28.386539200] [Success]: Connected successfully
+[2024-05-15T09:40:51.852284100] [Success]: Connected successfully
+[2024-05-15T09:41:16.197449] [Success]: Connected successfully
+[2024-05-15T09:41:42.573473100] [Success]: Connected successfully
+[2024-05-15T09:48:26.063503600] [Success]: Connected successfully
+[2024-05-15T09:49:14.333704600] [Success]: Connected successfully
+[2024-05-15T10:04:43.371632200] [Success]: Connected successfully
+[2024-05-15T10:06:23.513976500] [Success]: Connected successfully
+[2024-05-15T10:07:11.697974100] [Success]: Connected successfully
+[2024-05-15T10:07:32.250304600] [Success]: An event with ID=17 had been succesfully deleted
+[2024-05-15T10:07:43.573930200] [Success]: An event with ID=10 had been succesfully deleted
+[2024-05-15T10:08:05.092990400] [Success]: Connected successfully
+[2024-05-15T10:08:53.508875900] [Success]: Inserted an event Succesfully
+[2024-05-15T10:11:06.568899] [Success]: Connected successfully
+[2024-05-15T10:16:50.029505900] [Success]: Connected successfully
+[2024-05-15T10:19:24.907748700] [Success]: Connected successfully
+[2024-05-15T10:19:34.245561300] [Success]: Connected successfully
+[2024-05-15T10:21:09.923383300] [Success]: Inserted an event Succesfully
+[2024-05-15T10:21:10.013177600] [error]: Data truncation: Data too long for column 'organizer' at row 1
+[2024-05-15T10:21:31.166383800] [Success]: Inserted an event Succesfully
+[2024-05-15T10:25:35.753777300] [Success]: Connected successfully
+[2024-05-15T10:28:29.461911] [Success]: Connected successfully
+[2024-05-15T16:16:39.202937700] [Success]: Connected successfully
+[2024-05-15T16:18:45.360793500] [Success]: Inserted an event Succesfully
+[2024-05-15T16:19:54.682062300] [Success]: Connected successfully
+[2024-05-15T16:19:59.934509300] [Success]: Connected successfully
+[2024-05-18T21:30:34.498768100] [Success]: Connected successfully
+[2024-05-18T21:41:36.544134800] [Success]: Connected successfully
+[2024-05-18T21:43:02.322625900] [Success]: Connected successfully
+[2024-05-18T21:43:13.230295200] [Success]: An event with ID=20 had been succesfully deleted
+[2024-05-18T22:33:24.414323] [Success]: Connected successfully
+[2024-05-18T22:33:34.056297400] [Success]: An event with ID=18 had been succesfully deleted
+[2024-05-18T22:40:24.277441100] [Success]: Connected successfully
+[2024-05-18T22:40:58.351359200] [Success]: Connected successfully
+[2024-05-18T22:42:35.394848] [Success]: Connected successfully
+[2024-05-18T22:43:24.966174400] [Success]: Connected successfully
+[2024-05-18T22:43:41.511068300] [Success]: Connected successfully
+[2024-05-18T22:44:55.226176500] [Success]: Connected successfully
+[2024-05-18T22:45:55.318822700] [Success]: Connected successfully
+[2024-05-18T22:48:35.690561] [Success]: Connected successfully
+[2024-05-18T22:49:42.758400] [Success]: Connected successfully
+[2024-05-18T22:50:01.115090400] [Success]: Connected successfully
+[2024-05-18T22:53:56.327234400] [Success]: Connected successfully
+[2024-05-18T22:55:21.369578200] [Success]: Connected successfully
+[2024-05-18T22:56:08.163703900] [Success]: Connected successfully
+[2024-05-18T23:02:00.306993600] [Success]: Connected successfully
+[2024-05-18T23:09:55.061060100] [Success]: Connected successfully
+[2024-05-18T23:13:40.906203100] [Success]: An event with ID=14 had been succesfully deleted
+[2024-05-18T23:13:50.036660200] [Success]: An event with ID=5 had been succesfully deleted
+[2024-05-18T23:21:24.761818200] [Success]: Inserted an event Succesfully
+[2024-05-18T23:33:43.181464600] [Success]: Inserted an event Succesfully
+[2024-05-18T23:41:17.403461700] [Success]: Inserted an event Succesfully
+[2024-05-19T15:05:37.715592100] [error]: After end of result set
+[2024-05-19T15:05:43.638685200] [error]: After end of result set
+[2024-05-19T15:05:49.548703900] [error]: After end of result set
+[2024-05-19T15:20:35.957175100] [error]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==16' at line 1
+[2024-05-19T15:22:24.211997400] [error]: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=21' at line 1
+[2024-05-19T15:35:46.851457200] [Success]: An event with ID=23 had been succesfully deleted
+[2024-05-20T10:38:20.789055500] [Success]: An event with ID=8 had been succesfully deleted
+[2024-05-21T09:55:37.194720900] [Success]: An event with ID=16 had been succesfully deleted
+[2024-05-22T15:44:59.107558600] [error]: Data truncation: Data too long for column 'password' at row 1
+[2024-05-22T15:46:42.360369700] [error]: Duplicate entry 'michaelJackson' for key 'users.PRIMARY'
+[2024-05-22T17:58:23.794702500] [error]: Illegal operation on empty result set.
+[2024-05-22T18:28:42.029224300] [error]: Illegal operation on empty result set.
+[2024-05-22T21:28:59.716306800] [error]: Illegal operation on empty result set.
+[2024-05-22T21:31:05.472451800] [error]: Illegal operation on empty result set.
+[2024-05-22T21:32:25.608528800] [error]: Illegal operation on empty result set.
+[2024-05-22T22:05:24.822830600] [error]: Illegal operation on empty result set.
+[2024-05-22T22:09:18.061479400] [error]: Illegal operation on empty result set.
+[2024-05-22T22:10:05.331453200] [error]: Illegal operation on empty result set.
+[2024-05-22T22:22:13.781910600] [error]: Illegal operation on empty result set.
+[2024-05-22T22:25:25.588684] [error]: Duplicate entry 'Welcome event' for key 'users.PRIMARY'
+[2024-05-22T22:51:00.345429100] [Success]: Inserted an event Succesfully
+[2024-05-23T04:01:42.848683100] [error]: Nati.dat (The system cannot find the file specified)
+[2024-05-23T04:01:47.731876500] [error]: Nati.dat (The system cannot find the file specified)
+[2024-05-23T04:03:06.810160700] [error]: Nati.dat (The system cannot find the file specified)
+[2024-05-24T07:51:20.437178] [error]: presidentoffice.dat (The system cannot find the file specified)
+[2024-05-24T08:02:48.801629900] [error]: null.dat (The system cannot find the file specified)
+[2024-05-24T08:06:22.868664100] [error]: presidentoffice.dat (The system cannot find the file specified)
+[2024-05-24T08:43:14.141187300] [error]: A.dat (The system cannot find the file specified)
